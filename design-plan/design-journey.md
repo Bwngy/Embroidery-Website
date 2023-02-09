@@ -31,16 +31,16 @@ This is an example for inserting images into Markdown:
 ### Website Topic (Milestone 1)
 > Briefly explain what your website will be about. Share your vision of your personal website.
 >
-> Example: (TODO: delete this) My website will be about the Grassroots festival in Trumansburg NY.
+> I plan to make a website about one of my favorite hobbies: embroidery. I plan to create a website that delves into the creative process of finding an idea to embroider, as well as share what materials I use. I also want to include my finished project at the end as well as some artists who inspire me.
 
-TODO: tell us about your website
+
 
 
 ### Device (Milestone 1)
 > How you will your audience likely access your website? On a laptop/desktop computer or a mobile device?
 > You will design your website for mobile or desktop devices (not both).
 
-TODO: mobile or desktop site
+> I want to design for a desktop site.
 
 
 ## Personal Website Design Exploration (Milestone 1)
@@ -54,20 +54,15 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 > TODO: Remove this example in your submission.
 > Example: **(You may not use the instructors' websites for this part.)**
 >
-> 0. <https://kharms.infosci.cornell.edu/>
->     ![Kyle Harms' personal website](example-site.png)
+1. <https://lamchunwing.weebly.com/piano-my-second-passion.html/>
+ ![Example piano blog](m1-content/images/piano-example.png)
 
-1. <TODO: website url>
+1. <https://www.erica-jackson.com/blog/tag/Embroidery/>
+   ![Embroidery example site](m1-content/images/embroidery-example.png)
 
-    ![TODO: screenshot description](TODO: screenshot path)
+2. <https://the-rosenrot.com/>
 
-2. <TODO: website url>
-
-    ![TODO: screenshot description](TODO: screenshot path)
-
-3. <TODO: website url>
-
-    ![TODO: screenshot description](TODO: screenshot path)
+    ![Fashion blog example](m1-content/images/fashion-example.png)
 
 
 ### Personal Website 1 Review (Milestone 1)
@@ -80,7 +75,12 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 > - What do you like about the design?
 > - Is the site designed for desktop, mobile, or desktop and mobile devices?
 
-TODO: website reflection/critique
+> - I think that these websites were created for those who had interest in classical music, specifically those of an older age.
+> - The goals the audience has is to probably find people with similar interests as them, or people looking for musical inspiration.
+> - The content in the websites include images of the piano, links that lead to the blogger's personal works, as well as a navigation bar that leads to contact information and personal history.
+> - Yes, I believe the content addresses the audience's goals. The content provided is descriptive and goes along with the images well. Since the text goes hand in hand with the images, it makes it really easy to follow and thus fulfills the audience's goals of learning more about the piano.
+> - Though the piano page is quite short, after exploring other parts of the website I found myself enjoying the varying lengths of text and the different sizes of images. I wasn't a big fan of the cursive font, but that is a personal preference.
+> - This site seems to be designed for desktops. It does not format well on mobile.
 
 
 ### Personal Website 2 Review (Milestone 1)
@@ -93,8 +93,11 @@ TODO: website reflection/critique
 > - What do you like about the design?
 > - Is the site designed for desktop, mobile, or desktop and mobile devices?
 
-TODO: website reflection/critique
-
+> - This website is designed for potential customers and employers in order to get to know this artist better.
+> - Content includes a personal history of how the artist became interested in embroidery and painting, as well as images of her work and her artistic process. There is also contact information and a link to her store via the navigation bar
+> - I think the content does address the goals of the audience. If I was an employer or customer, I could definitely get the information I needed and enough of it to make a decision about her as an artist. The images also help show what kind of artist she is which is very important
+> - I like how the design is very plain and simple. I also appreciate how some of the text is transparent, such as the date and the nav bar. This helps draw emphasis to the artist's name and the more important content the user wants to see.
+> - This website is also designed for desktops.
 
 ### Personal Website 3 Review (Milestone 1)
 > Review the personal website you identified above. (1-2 paragraphs)
@@ -106,7 +109,12 @@ TODO: website reflection/critique
 > - What do you like about the design?
 > - Is the site designed for desktop, mobile, or desktop and mobile devices?
 
-TODO: website reflection/critique
+> - This website is intended for those who want to learn about different kinds of fashion and avant garde fashion history.
+> - Goals include wanting to be well-versed in fashion lingo, keeping up-to-date in trends, and learning opinionated fashion history.
+> - Content includes images of clothing, extensive essay-like blog posts, and links to stores and contact information.
+> - The content does address the audience's goals. It is well organized and the prose is concise. This allows for easy access to the information desired and makes it easier to retain.
+> - I think that out of all the websites, this one has the most thoughtfully chosen images and formatting. The text is incredibly easy to read, and the images are very captivating and draw my attention deeper into the blog.
+> This site is designed for desktops, but works well on my mobile device as well.
 
 
 ## Audience & Goals (Milestone 1)
@@ -116,18 +124,16 @@ Using what you learned from studying the example websites, identify your website
 ### Audience (Milestone 1)
 > Briefly explain who the intended audience is for your website. Be specific and justify why this audience is appropriate for your site's topic.
 
-TODO: site's audience
+> My website's audience are those who want to learn more about hand embroidery. It is targeted to the beginner audience who wants to learn how to start embroidering and find the right materials to do so. This audience is appropriate for this topic because my site will focus on giving advice and offering inspiration for beginner artists. For example, I plan to have sections on how I transfer designs onto fabric to embroider on, as well as a page where I go through the complete process of creating an embroidered piece.
 
 
 ### Audience Goals (Milestone 1)
 > Why would your audience visit your site?
 > Identify at least 3 goals that your users have for visiting your website.
 
-1. TODO: goal
-
-2. TODO: goal
-
-3. TODO: goal
+1. To find the best materials and a good process to start embroidering.
+2. Find artistic inspiration through my and others work.
+3. To discover a niche genre of embroidery.
 
 
 ## Content Planning (Milestone 1)
@@ -138,16 +144,16 @@ Plan your site's content.
 > List **all** the content you plan to include your personal website.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
-- ...
+- text
+- photos
+- links
+- captions
 
 
 ### Content Justification (Milestone 1)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-TODO: justify your content decisions
+> Images are appropriate because embroidery is largely visual and having images will help engage the audience. Text is defintely necessary to describe the artistic process as well as offer specific advice on certain techniques. Links are important as well as I plan to link certain items on Amazon for example, as well as other artists' social medias for inspiration. Captions are important for the images, as there will be how-to pictures that need to be explained. All of this together will meet the audience's goal of wanting to learn more about embroidery because it will provide visual, textual, and external advice for starting embroidery.
 
 
 ### Home Page Content (Milestone 1)
@@ -155,9 +161,9 @@ TODO: justify your content decisions
 >
 > Briefly identify what content you will include on the homepage and why this content should be the first thing your target audience sees when they visit your site.
 
-TODO: homepage content
+> I plan on having the homepage content include a large captivating image to draw the audience's attention. I will then include a brief introduction on what the site is about, and perhaps a short personal history about how I got into the craft. I will then encourage the audience to explore other pages to learn more about embroidery. I think this is would be an effective homepage because it will effectively explain the purpose of the website, as well as provide visual cues to see if this kind of embroidery is the kind that the audience wants to learn more about.
 
-
+-----------------------------------------------
 ## Information Architecture (Milestone 2)
 
 For milestone 2, you will design the information architecture for all the pages your website.
