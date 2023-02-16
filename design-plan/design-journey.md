@@ -55,14 +55,14 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 > Example: **(You may not use the instructors' websites for this part.)**
 >
 1. <https://lamchunwing.weebly.com/piano-my-second-passion.html/>
- ![Example piano blog](m1-content/images/piano-example.png)
+ ![Example piano blog](p1-images/piano-example.png)
 
 1. <https://www.erica-jackson.com/blog/tag/Embroidery/>
-   ![Embroidery example site](m1-content/images/embroidery-example.png)
+   ![Embroidery example site](p1-images/embroidery-example.png)
 
 2. <https://the-rosenrot.com/>
 
-    ![Fashion blog example](m1-content/images/fashion-example.png)
+    ![Fashion blog example](p1-images/fashion-example.png)
 
 
 ### Personal Website 1 Review (Milestone 1)
@@ -175,30 +175,39 @@ You may change your homepage content based on your card sorting. If you do chang
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-TODO: photos and explanations of each iteration
+![Final cart sort](p1-images/final-sort.jpg)
+This is the orientation that I decided on. I sorted them based on the relevat content for each page, and whether it matched the theme of the page. For example, though there are pictures of embroidery for the "My Projects" page, I chose to use one of my embroidery examples to use an example for the "Process" page to better narrate the instructions of going through an embroidered piece.
+![Alternative card sort](p1-images/alt-sort.jpg)
+This orientation focused more on a more expansive homepage that included more content. I decided to merge the content about me with the content about other artists into the homepage for this example.
+
 
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
+> For this project, I want to use the first orientation with 5 pages
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-TODO: why does this organization make sense for your audience (not you)?
+> I think that this orientation is better for my website's audience because it makes the content more organized. If I had included the "Other" and "Homepage" pages together, it would have been more muddled and confusing than if I just left them separate. In additon, both have a substantial amount of content, and I think it would be better to separate them into different pages for the audience's comprehension and enjoyment.
 
 
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- About Me
+- Materials
+- Complete Process
+- My Projects
+- External Resources
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
+- About me: this page is intended to give a personal history about how I got into embroidery and how I learned.
+- Materials: this page is intended to give a complete list of materials, from necessary ones to optional ones which I recommend for less stress
+- Complete Process: this page is intended to give a rundown of how to complete a piece from start to finish
+- My projects: this page is intended to be an image collection of the pieces I have made, along with a short description of each one
+- External resources: this page is intended to provide links to external resources that I believe will be helpful to the audience. It will also link sources of inspiration for me in hopes that they will also be useful to the audience.
 
 
 ## Visual Themes (Milestone 3)
