@@ -73,3 +73,15 @@ FINAL TOUCHES:
 *This page will contain mostly images that will showcase my recent works. It is intended to be fun and engaging, and contrast from the other pages which have more text.*
 # About me/more inspo
 *This page will contain links to other artists that I enjoy, as well as resources for finding more advice*
+
+
+# to do
+- add more text and link content to external resources page
+- cite all images
+- add more images (stitches, floss)
+- flexbox nav bar
+- decide color theme
+- flexbox images
+- finalize logo
+- make borders rounded
+- edit milestones

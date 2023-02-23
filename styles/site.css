@@ -1,0 +1,171 @@
+body {
+    background-color: #f7f0e7;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+/* NAV */
+nav ul {
+    text-align: center;
+    list-style-type: none;
+    background-color: #925E78;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+/* headers */
+h1 {
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-size: 45px;
+    font-style: italic;
+}
+
+h2.stripe {
+    background-color: #BA6969;
+    color:#f7f0e7;
+    padding-left: 1%
+}
+
+h3 {
+    font-size: 30px;
+    background-color:#7a7929;
+    font-style: italic;
+    color:#f7f0e7
+}
+
+/* text */
+p {
+    color:#303030;
+    font-size: large;
+}
+
+q, #quote {
+    color:rgb(159, 40, 89);
+    font-size:50px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+ol, ul.notnavlist {
+    color: none;
+    font-style: italic;
+    border-style: solid;
+    border-color: #86586f;
+    border-width: 3px;
+    border-radius: 10px;
+    background-color: #fcebd7
+}
+
+
+figcaption {
+    color:rgb(99, 98, 98);
+    font-style:italic
+}
+
+footer {
+    margin-top:30%;
+}
+p.footer {
+    color:gray
+}
+/* images */
+img {
+    border-radius: 5%;
+}
+
+img.project {
+    border-radius: 0%;
+}
+/* classes */
+
+.logo {
+    display: block
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.condense {
+    width: 60%
+}
+
+
+.summarycenter {
+    text-align: center;
+    color: #575757;
+    font-size:20px;
+    font-style: italic;
+
+}
+/* id */
+#hello {
+    font-size: 60px;
+    font-style: italic;
+    font-weight: bold;
+    color:#454411
+}
+
+#disclaimer {
+    color:gray;
+    font-style: italic;
+}
+
+#started {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color:#454411
+
+}
+
+#optional {
+    background-color:#899498;
+    color:#f7f0e7;
+    font-style: italic;
+}
+
+#trust{
+    font-style: normal;
+    color:#ba9494
+}
+
+#bead {
+    font-size: 30px;
+    color: #0000d4;
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#snail {
+    font-size: 30px;
+    color: #d3aa59;
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#manga {
+    font-size: 30px;
+    color:#317d78;
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#chibi {
+    font-size: 30px;
+    color:#f44d4d;
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#shiba {
+    font-size: 30px;
+    color:#d06a17;
+    text-decoration: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
