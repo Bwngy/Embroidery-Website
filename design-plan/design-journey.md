@@ -31,7 +31,7 @@ This is an example for inserting images into Markdown:
 ### Website Topic (Milestone 1)
 > Briefly explain what your website will be about. Share your vision of your personal website.
 >
-> I plan to make a website about one of my favorite hobbies: embroidery. I plan to create a website that delves into the process of finding an idea to embroider, as well as share what materials I use. I also want to include my finished project at the end as well as some artists who inspire me.
+I plan to make a website about one of my favorite hobbies: embroidery. I plan to create a website that delves into the process of finding an idea to embroider, as well as share what materials I use. I also want to include my finished project at the end as well as some artists who inspire me.
 
 
 
@@ -39,7 +39,8 @@ This is an example for inserting images into Markdown:
 ### Device (Milestone 1)
 > How you will your audience likely access your website? On a laptop/desktop computer or a mobile device?
 > You will design your website for mobile or desktop devices (not both).
-> I want to design for a desktop site.
+>
+I want to design for a desktop site.
 
 
 ## Personal Website Design Exploration (Milestone 1)
@@ -50,17 +51,16 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 
 **We'll refer to these are your "example websites."**
 
-> TODO: Remove this example in your submission.
+
 > Example: **(You may not use the instructors' websites for this part.)**
 >
 1. <https://lamchunwing.weebly.com/piano-my-second-passion.html/>
  ![Example piano blog](piano-example.png)
 
-1. <https://www.erica-jackson.com/blog/tag/Embroidery/>
+2. <https://www.erica-jackson.com/blog/tag/Embroidery/>
    ![Embroidery example site](embroidery-example.png)
 
-2. <https://the-rosenrot.com/>
-
+3. <https://the-rosenrot.com/>
     ![Fashion blog example](fashion-example.png)
 
 
@@ -74,12 +74,12 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 > - What do you like about the design?
 > - Is the site designed for desktop, mobile, or desktop and mobile devices?
 
-> - I think that these websites were created for those who had interest in classical music, specifically those of an older age.
-> - The goals the audience has is to probably find people with similar interests as them, or people looking for musical inspiration.
-> - The content in the websites include images of the piano, links that lead to the blogger's personal works, as well as a navigation bar that leads to contact information and personal history.
-> - Yes, I believe the content addresses the audience's goals. The content provided is descriptive and goes along with the images well. Since the text goes hand in hand with the images, it makes it really easy to follow and thus fulfills the audience's goals of learning more about the piano.
-> - Though the piano page is quite short, after exploring other parts of the website I found myself enjoying the varying lengths of text and the different sizes of images. I wasn't a big fan of the cursive font, but that is a personal preference.
-> - This site seems to be designed for desktops. It does not format well on mobile.
+- I think that these websites were created for those who had interest in classical music, specifically those of an older age.
+- The goals the audience has is to probably find people with similar interests as them, or people looking for musical inspiration.
+- The content in the websites include images of the piano, links that lead to the blogger's personal works, as well as a navigation bar that leads to contact information and personal history.
+- Yes, I believe the content addresses the audience's goals. The content provided is descriptive and goes along with the images well. Since the text goes hand in hand with the images, it makes it really easy to follow and thus fulfills the audience's goals of learning more about the piano.
+- Though the piano page is quite short, after exploring other parts of the website I found myself enjoying the varying lengths of text and the different sizes of images. I wasn't a big fan of the cursive font, but that is a personal preference.
+- This site seems to be designed for desktops. It does not format well on mobile.
 
 
 ### Personal Website 2 Review (Milestone 1)
@@ -92,11 +92,11 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 > - What do you like about the design?
 > - Is the site designed for desktop, mobile, or desktop and mobile devices?
 
-> - This website is designed for potential customers and employers in order to get to know this artist better.
-> - Content includes a personal history of how the artist became interested in embroidery and painting, as well as images of her work and her artistic process. There is also contact information and a link to her store via the navigation bar
-> - I think the content does address the goals of the audience. If I was an employer or customer, I could definitely get the information I needed and enough of it to make a decision about her as an artist. The images also help show what kind of artist she is which is very important
-> - I like how the design is very plain and simple. I also appreciate how some of the text is transparent, such as the date and the nav bar. This helps draw emphasis to the artist's name and the more important content the user wants to see.
-> - This website is also designed for desktops.
+- This website is designed for potential customers and employers in order to get to know this artist better.
+- Content includes a personal history of how the artist became interested in embroidery and painting, as well as images of her work and her artistic process. There is also contact information and a link to her store via the navigation bar
+- I think the content does address the goals of the audience. If I was an employer or customer, I could definitely get the information I needed and enough of it to make a decision about her as an artist. The images also help show what kind of artist she is which is very important
+- I like how the design is very plain and simple. I also appreciate how some of the text is transparent, such as the date and the nav bar. This helps draw emphasis to the artist's name and the more important content the user wants to see.
+- This website is also designed for desktops.
 
 ### Personal Website 3 Review (Milestone 1)
 > Review the personal website you identified above. (1-2 paragraphs)
@@ -108,12 +108,12 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 > - What do you like about the design?
 > - Is the site designed for desktop, mobile, or desktop and mobile devices?
 
-> - This website is intended for those who want to learn about different kinds of fashion and avant garde fashion history.
-> - Goals include wanting to be well-versed in fashion lingo, keeping up-to-date in trends, and learning opinionated fashion history.
-> - Content includes images of clothing, extensive essay-like blog posts, and links to stores and contact information.
-> - The content does address the audience's goals. It is well organized and the prose is concise. This allows for easy access to the information desired and makes it easier to retain.
-> - I think that out of all the websites, this one has the most thoughtfully chosen images and formatting. The text is incredibly easy to read, and the images are very captivating and draw my attention deeper into the blog.
-> This site is designed for desktops, but works well on my mobile device as well.
+- This website is intended for those who want to learn about different kinds of fashion and avant garde fashion history.
+- Goals include wanting to be well-versed in fashion lingo, keeping up-to-date in trends, and learning opinionated fashion history.
+- Content includes images of clothing, extensive essay-like blog posts, and links to stores and contact information.
+- The content does address the audience's goals. It is well organized and the prose is concise. This allows for easy access to the information desired and makes it easier to retain.
+- I think that out of all the websites, this one has the most thoughtfully chosen images and formatting. The text is incredibly easy to read, and the images are very captivating and draw my attention deeper into the blog.
+- This site is designed for desktops, but works well on my mobile device as well.
 
 
 ## Audience & Goals (Milestone 1)
@@ -123,7 +123,7 @@ Using what you learned from studying the example websites, identify your website
 ### Audience (Milestone 1)
 > Briefly explain who the intended audience is for your website. Be specific and justify why this audience is appropriate for your site's topic.
 
-> My website's audience are those who want to learn more about hand embroidery. It is targeted to the beginner audience who wants to learn how to start embroidering and find the right materials to do so. This audience is appropriate for this topic because my site will focus on giving advice and offering inspiration for beginner artists. For example, I plan to have sections on how I transfer designs onto fabric to embroider on, as well as a page where I go through the complete process of creating an embroidered piece.
+My website's audience are those who want to learn more about hand embroidery. It is targeted to the beginner audience who wants to learn how to start embroidering and find the right materials to do so. This audience is appropriate for this topic because my site will focus on giving advice and offering inspiration for beginner artists. For example, I plan to have sections on how I transfer designs onto fabric to embroider on, as well as a page where I go through the complete process of creating an embroidered piece.
 
 
 ### Audience Goals (Milestone 1)
@@ -152,7 +152,7 @@ Plan your site's content.
 ### Content Justification (Milestone 1)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-> Images are appropriate because embroidery is largely visual and having images will help engage the audience. Text is defintely necessary to describe the artistic process as well as offer specific advice on certain techniques. Links are important as well as I plan to link certain items on Amazon for example, as well as other artists' social medias for inspiration. Captions are important for the images, as there will be how-to pictures that need to be explained. All of this together will meet the audience's goal of wanting to learn more about embroidery because it will provide visual, textual, and external advice for starting embroidery.
+Images are appropriate because embroidery is largely visual and having images will help engage the audience. Text is defintely necessary to describe the artistic process as well as offer specific advice on certain techniques. Links are important as well as I plan to link certain items on Amazon for example, as well as other artists' social medias for inspiration. Captions are important for the images, as there will be how-to pictures that need to be explained. All of this together will meet the audience's goal of wanting to learn more about embroidery because it will provide visual, textual, and external advice for starting embroidery.
 
 
 ### Home Page Content (Milestone 1)
@@ -160,7 +160,7 @@ Plan your site's content.
 >
 > Briefly identify what content you will include on the homepage and why this content should be the first thing your target audience sees when they visit your site.
 
-> I plan on having the homepage content include a captivating image to draw the audience's attention. I will then include a brief introduction on what the site is about, and perhaps a short personal history about how I got into the craft. I will then encourage the audience to explore other pages to learn more about embroidery. I think this is would be an effective homepage because it will effectively explain the purpose of the website, as well as provide visual cues to see if this kind of embroidery is the kind that the audience wants to learn more about.
+I plan on having the homepage content include a captivating image to draw the audience's attention. I will then include a brief introduction on what the site is about, and perhaps a short personal history about how I got into the craft. I will then encourage the audience to explore other pages to learn more about embroidery. I think this is would be an effective homepage because it will effectively explain the purpose of the website, as well as provide visual cues to see if this kind of embroidery is the kind that the audience wants to learn more about.
 
 -----------------------------------------------
 ## Information Architecture (Milestone 2)
@@ -184,11 +184,11 @@ This orientation focused more on a more expansive homepage that included more co
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-> For this project, I want to use the first orientation with 5 pages
+For this project, I want to use the first orientation with 5 pages
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-> I think that this orientation is better for my website's audience because it makes the content more organized. If I had included the "Other" and "Homepage" pages together, it would have been more muddled and confusing than if I just left them separate. In additon, both have a substantial amount of content, and I think it would be better to separate them into different pages for the audience's comprehension and enjoyment.
+I think that this orientation is better for my website's audience because it makes the content more organized. If I had included the "Other" and "Homepage" pages together, it would have been more muddled and confusing than if I just left them separate. In additon, both have a substantial amount of content, and I think it would be better to separate them into different pages for the audience's comprehension and enjoyment.
 
 
 ### Navigation (Milestone 2)
@@ -220,9 +220,9 @@ Each section is probably around 1 reasonably sized paragraph (2-4 sentences).
 ### Theme Ideas (Milestone 3)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences.
 
-> Since my website is mostly about manga embroidery, I could make the website manga themed. This would mean making the website themed black and white with pops of color. Images could be themed in a comic sort of layout as well. This could be approriate for my target audience, since my website is targeted towards those who want more information about this kind of embroidery.
-> Another theme idea could be to take the colors of the embroidery process and implement them into the website. What I mean by this is taking things such as the color of cloth, and pops of color of thread to theme my website. I could also take the shape of embroidery hoops and make certain aspects of my website rounded. Since the goal of the audience is to learn more about embroidery, this would be fitting.
-> A final theme idea could be to make the website extremely colorful and vibrant, since embroidery is a fun process and would make the website eyecatching.
+Since my website is mostly about manga embroidery, I could make the website manga themed. This would mean making the website themed black and white with pops of color. Images could be themed in a comic sort of layout as well. This could be approriate for my target audience, since my website is targeted towards those who want more information about this kind of embroidery.
+Another theme idea could be to take the colors of the embroidery process and implement them into the website. What I mean by this is taking things such as the color of cloth, and pops of color of thread to theme my website. I could also take the shape of embroidery hoops and make certain aspects of my website rounded. Since the goal of the audience is to learn more about embroidery, this would be fitting.
+A final theme idea could be to make the website extremely colorful and vibrant, since embroidery is a fun process and would make the website eyecatching.
 
 
 
@@ -295,39 +295,43 @@ Your rationale should be a polished version of the earlier explanations.
 ### Audience (Final Submission)
 > A complete and polished description of the intended audience(s) for your website.
 
+For my website, the target audience are those who do not know how to embroider, and are interested in line art embroidery. These people can be of any age, but most likely do not have experience embroidering and are beginners.
 
 
 
 ### Design Goals (Final Submission)
 > An explanation of the design goals for that audience, based on your earlier rationales.
 
-TODO: your design goals
+My goals for designing this website is to provide easy access to information about how to get started with embroidery. This includes tools, tips, and the process of creating a piece. I also wanted to make sure this information was concise, as I did not want to overwhelm the audience, who are beginners. Another goal of this website is to provide resources for inspiration regarding embroidery, whether that be through my work or other artists’ works.
 
 
 ### Content Organization & Navigation (Final Submission)
 > An explanation of how the final content organization and navigation met your goals and why it's appropriate for your audience.
 
-TODO: content and information architecture rationale
+Since this website was intended for those who were just starting out embroidery, I decided that having a lot of image content would be good since embroidery is such a visual process. For this reason, my content organization centered heavily around images, with each page having at least one image. In my content organization, I tried my best to balance text content with image content so that the audience could learn both visually and textually. There are pages with substantial amounts of text, as well as pages with minimal text and mostly images, such as the Projects page. In addition, the content was structured into smaller sections for easier reading. Since there is a lot of information that needs to be learned to embroidery, I thought this would be effective in helping the audience feel less overwhelmed.
+
 
 
 ### Visual Design (Final Submission)
 > An explanation of how the final design met your goals and why it's appropriate for your audience.
 
-TODO: design rationale
+As for the final design, I wanted to focus on creating something calming and easy to read, yet still engaging. To do so, I used a color palette of pastel and neutral tones. To make it easier to read and locate specific content, I made important content have colors. For example, I color coded the headers and navigation bar so that the audience would have an easier time going through the website, especially because there is so much information. Another design element I included was extra space. I added space between sections, as well as space for the sides of the website. In adding this white space, I wanted the website to be easier on the eyes and make it more enjoyable to read through the website. I believe that all of this together effectively addresses the audience’s goals of wanting to find embroidery information, since I designed it so that it is not only easy to find, but pleasant to read.
+
 
 
 ### Self-Reflection (Final Submission)
 > Take some time here to reflect on how much you've learned since you started this class. It's often easy to ignore our own progress. Take a moment and think about your accomplishments in this class. Hopefully you'll recognize that you've accomplished a lot and that you should be very proud of those accomplishments!
 
-TODO: reflection
+This project was great and I feel like I learned so much! This was my first time making a website and it was so much fun. I learned about basic tags in HTML, how to organize and use CSS, and where to find information if I’m ever stuck (MDN). I really enjoyed how hands on the whole process was, and seeing everything I learned come to life was very rewarding.
+
 
 
 ## Grading (Final Submission)
 
 ### Mobile or Desktop? (Final Submission)
 > Should the graders, grade your site as a desktop site or a mobile site?
-
-TODO: mobile/desktop
+>
+Desktop
 
 
 ### Grading: Open the Design Journey in Markdown: Open Preview (Final Submission)
@@ -340,16 +344,16 @@ TODO: mobile/desktop
 >
 > Is your design journey easy to read?
 
-TODO: design journey ready to grade?
+Yes
 
 
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+None
 
 
 ### Resources
 > Please cite any external resources you used in the creation of your project.
 
-TODO: list resources
+I used MDN if I needed help. I also used images from Instagram and I cited them in my code.
