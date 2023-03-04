@@ -76,12 +76,9 @@ FINAL TOUCHES:
 
 
 # to do
-- add more text and link content to external resources page
-- cite all images
-- add more images (stitches, floss)
-- flexbox nav bar
-- decide color theme
-- flexbox images
-- finalize logo
-- make borders rounded
 - edit milestones
+- organize html
+- look over feedback
+
+
+<!-- Source: (original work) Bryan Wang -->

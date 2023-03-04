@@ -31,7 +31,7 @@ This is an example for inserting images into Markdown:
 ### Website Topic (Milestone 1)
 > Briefly explain what your website will be about. Share your vision of your personal website.
 >
-> I plan to make a website about one of my favorite hobbies: embroidery. I plan to create a website that delves into the creative process of finding an idea to embroider, as well as share what materials I use. I also want to include my finished project at the end as well as some artists who inspire me.
+> I plan to make a website about one of my favorite hobbies: embroidery. I plan to create a website that delves into the process of finding an idea to embroider, as well as share what materials I use. I also want to include my finished project at the end as well as some artists who inspire me.
 
 
 
@@ -39,7 +39,6 @@ This is an example for inserting images into Markdown:
 ### Device (Milestone 1)
 > How you will your audience likely access your website? On a laptop/desktop computer or a mobile device?
 > You will design your website for mobile or desktop devices (not both).
-
 > I want to design for a desktop site.
 
 
@@ -55,14 +54,14 @@ Include a screenshot of the home page for each site. If you're planning a mobile
 > Example: **(You may not use the instructors' websites for this part.)**
 >
 1. <https://lamchunwing.weebly.com/piano-my-second-passion.html/>
- ![Example piano blog](images/piano-example.png)
+ ![Example piano blog](piano-example.png)
 
 1. <https://www.erica-jackson.com/blog/tag/Embroidery/>
-   ![Embroidery example site](images/embroidery-example.png)
+   ![Embroidery example site](embroidery-example.png)
 
 2. <https://the-rosenrot.com/>
 
-    ![Fashion blog example](images/fashion-example.png)
+    ![Fashion blog example](fashion-example.png)
 
 
 ### Personal Website 1 Review (Milestone 1)
@@ -161,7 +160,7 @@ Plan your site's content.
 >
 > Briefly identify what content you will include on the homepage and why this content should be the first thing your target audience sees when they visit your site.
 
-> I plan on having the homepage content include a large captivating image to draw the audience's attention. I will then include a brief introduction on what the site is about, and perhaps a short personal history about how I got into the craft. I will then encourage the audience to explore other pages to learn more about embroidery. I think this is would be an effective homepage because it will effectively explain the purpose of the website, as well as provide visual cues to see if this kind of embroidery is the kind that the audience wants to learn more about.
+> I plan on having the homepage content include a captivating image to draw the audience's attention. I will then include a brief introduction on what the site is about, and perhaps a short personal history about how I got into the craft. I will then encourage the audience to explore other pages to learn more about embroidery. I think this is would be an effective homepage because it will effectively explain the purpose of the website, as well as provide visual cues to see if this kind of embroidery is the kind that the audience wants to learn more about.
 
 -----------------------------------------------
 ## Information Architecture (Milestone 2)
@@ -175,9 +174,9 @@ You may change your homepage content based on your card sorting. If you do chang
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
 
-![Final cart sort](images/final-sort.jpg)
+![Final cart sort](final-sort.jpg)
 This is the orientation that I decided on. I sorted them based on the relevat content for each page, and whether it matched the theme of the page. For example, though there are pictures of embroidery for the "My Projects" page, I chose to use one of my embroidery examples to use an example for the "Process" page to better narrate the instructions of going through an embroidered piece.
-![Alternative card sort](images/alt-sort.jpg)
+![Alternative card sort](alt-sort.jpg)
 This orientation focused more on a more expansive homepage that included more content. I decided to merge the content about me with the content about other artists into the homepage for this example.
 
 
@@ -251,15 +250,27 @@ Though embroidery is a fun and exciting process, starting out can be stressful. 
 > Show your design process.
 > **Use the example websites above as inspiration for your site's design.**
 
-TODO: layout sketches
-
-
+![First homepage draft](homepage1.jpg)
+The first draft I made includes the title on the top, followed by a large image and then an introduction to the website. This format was intended to catch the attention of the audience, as the image would show several different embroideries and show the audience what the website was about. However, I did not like this one because the "hero" image is distracting and takes away from the actual content of the site.
+![Second homepage draft](homepage2.jpg)
+This page includes a logo flex boxed with the nav bar. It then has an introductory image on the right, followed by an introduction on the left. Having both the text and image content was intended to give them equal importance in order to balance out the page.
+![Final homepage](homepage-final.jpg)
+This page is the same, except the text and image swap places. I believe this format is best, as it feels more natural to be greeted with the image, and then be introduced to the website. That way the audience gets the general visual idea of what the website is about before they go forward.
 ### Final Site Design (Final Submission)
 > Include a sketch of the final layout for each page in your site.
 > Provide an explanation below each sketch.
 
-TODO: site sketches
+![Materials page](materials-page.jpg)
+Since this page is a long list of items that the audience needs to look through, my goal was to make it as easier to read as possible. I created more space using margin-left in order to indent the content and align it all. In addition, for sections where there were 2 images, I planned to flexbox them in rows that it doesn't pile up on an already long page. For sections with one image, I planned to flexbox them next to the text content.
 
+![Process page](process-page.jpg)
+Similarly, this website was quite long so I followed the same procedure. I aligned the content closer to the center, and when there were multiple images on top of each other I flexboxed them to be side by side to make readability better.
+
+![Projects page](project-page.jpg)
+This page is mostly images, so I plan on flexboxing the images almost like I did in lab5. I also added a quote for a bit of variety of content, which will be in between the flexed images.
+
+![Resources page](resource-page.jpg)
+This page is similar to the homepage in format. I plan on flexing each image with the corresponding text content, and then have those flexboxes lay in a column.
 
 ### Static Website Design Check (Final Submission)
 > We're building a static website without interactivity.
@@ -268,7 +279,7 @@ TODO: site sketches
 >dfd
 > Audit your design and check that you aren't relying on any dynamic features.
 
-TODO: Explain why your site's design is completely static.
+There is are only static images, and my nav bar is not made with JavaScript. I only use basic tags and css to style my page.
 
 
 ## Rationale (Final Submission)
@@ -284,7 +295,7 @@ Your rationale should be a polished version of the earlier explanations.
 ### Audience (Final Submission)
 > A complete and polished description of the intended audience(s) for your website.
 
-TODO: audience rationale
+
 
 
 ### Design Goals (Final Submission)

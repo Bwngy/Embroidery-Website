@@ -1,20 +1,38 @@
+/* Main and Navigation */
+
 body {
     background-color: #f7f0e7;
     font-family:Arial, Helvetica, sans-serif ;
 }
-/* NAV */
+
+main {
+    margin-top: 10%;
+}
+
 nav ul {
     text-align: center;
     list-style-type: none;
     background-color: #925E78;
+    border-radius: 45%;
+    padding: 1.5%;
 }
+    nav li {
+        display: inline;
+    }
+    nav a {
+        color: #fffcf7;
+        text-decoration: none;
+        font-weight: bold;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
 
-nav a{
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
+/* Headers and text */
+
+.title {
+    margin-top: 9%;
+    margin-bottom: 6%;
 }
-/* headers */
 h1 {
     text-align: center;
     font-size: 70px;
@@ -22,37 +40,47 @@ h1 {
 }
 
 h2 {
+    background-color: #925E78;
+    color:#f7f0e7;
+    padding-left: 5%;
     font-size: 45px;
     font-style: italic;
 }
 
-h2.stripe {
-    background-color: #BA6969;
-    color:#f7f0e7;
-    padding-left: 1%
-}
+    h2.stripe {
+        padding-left: 5%;
+        background-color: #BA6969;
+        color:#f7f0e7;
+    }
+
+    h2.stripe1 {
+        padding-left: 5%;
+        background-color:#813e5f;
+        color:#f7f0e7;
+    }
 
 h3 {
+    margin-top: 8%;
+    padding-left: 5%;
     font-size: 30px;
     background-color:#7a7929;
     font-style: italic;
     color:#f7f0e7
 }
 
-/* text */
 p {
+    margin-left: 5%;
+    margin-right: 5%;
     color:#303030;
     font-size: large;
 }
 
-q, #quote {
-    color:rgb(159, 40, 89);
-    font-size:50px;
-    font-style: italic;
-    font-weight: bold;
-}
-
-ol, ul.notnavlist {
+ol {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1.5%;
     color: none;
     font-style: italic;
     border-style: solid;
@@ -61,54 +89,75 @@ ol, ul.notnavlist {
     border-radius: 10px;
     background-color: #fcebd7
 }
-
+ol.flexed-list {
+    margin-bottom: 20%;
+}
 
 figcaption {
     color:rgb(99, 98, 98);
-    font-style:italic
+    font-style: italic;
+    text-align: center;
 }
 
 footer {
-    margin-top:30%;
-}
-p.footer {
-    color:gray
-}
-/* images */
-img {
-    border-radius: 5%;
+    margin-top: 30%;
 }
 
-img.project {
-    border-radius: 0%;
-}
-/* classes */
+    p.footer {
+        text-align: center;
+        color:gray
+    }
+
+/* Classes */
 
 .logo {
-    display: block
+    display: block;
+    width: 20%;
     margin-left: auto;
     margin-right: auto;
-    width: 30%;
 }
-
-.condense {
-    width: 60%
-}
-
 
 .summarycenter {
     text-align: center;
     color: #575757;
-    font-size:20px;
+    font-size: 20px;
     font-style: italic;
 
 }
-/* id */
+
+.insta {
+    margin-top: 30%;
+    margin-right: 10%;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+    .row1 {
+        margin-right: 5%;
+    }
+
+    .row2 {
+        display: flex;
+        flex-direction: row;
+    }
+
+/* ID */
+
 #hello {
     font-size: 60px;
     font-style: italic;
     font-weight: bold;
     color:#454411
+}
+#homepage-text {
+    padding-left: 7%;
+    padding-right: 5%;
 }
 
 #disclaimer {
@@ -121,7 +170,6 @@ img.project {
     font-style: italic;
     font-weight: bold;
     color:#454411
-
 }
 
 #optional {
@@ -135,37 +183,28 @@ img.project {
     color:#ba9494
 }
 
-#bead {
-    font-size: 30px;
-    color: #0000d4;
-    text-decoration: none;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+#quote {
+    margin-top: 10%;
+    margin-left: 3%;
+    color:#9f2859;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    width:55%;
 }
 
-#snail {
-    font-size: 30px;
-    color: #d3aa59;
-    text-decoration: none;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+#home-image {
+    margin-left: 5%
 }
 
-#manga {
-    font-size: 30px;
-    color:#317d78;
-    text-decoration: none;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+#new-section {
+    margin-top: 10%;
 }
 
-#chibi {
-    font-size: 30px;
-    color:#f44d4d;
-    text-decoration: none;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+figure > img, picture > img {
+    border-radius: 5%;
 }
 
-#shiba {
-    font-size: 30px;
-    color:#d06a17;
-    text-decoration: none;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+div.project picture > img {
+    border-radius: 0%;
 }
