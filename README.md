@@ -1,3 +1,4 @@
-# Project 1
+# To access the website
 
-**Submission Instructions:** Stage, commit, and push your changed files. Then complete the submission form.
+1. Clone the repository on your machine
+2. Open index.html on browser of choice
