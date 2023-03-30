@@ -152,7 +152,7 @@ Plan your site's content.
 ### Content Justification (Milestone 1)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-Images are appropriate because embroidery is largely visual and having images will help engage the audience. Text is defintely necessary to describe the artistic process as well as offer specific advice on certain techniques. Links are important as well as I plan to link certain items on Amazon for example, as well as other artists' social medias for inspiration. Captions are important for the images, as there will be how-to pictures that need to be explained. All of this together will meet the audience's goal of wanting to learn more about embroidery because it will provide visual, textual, and external advice for starting embroidery.
+Images are appropriate because embroidery is largely visual and having images will help engage the audience. Text is defintely necessary to describe the artistic process as well as offer specific advice on certain techniques. Links are important as well as I plan to link certain items on Amazon for example, as well as other artists' social medias for inspiration. Captions are important for the images, as there will be how-to pictures that need to be explained. All of this together will meet the audience's goal of wanting to learn more about embroidery because it will provide visual, textual, and external advice for starting embroidery!!!
 
 
 ### Home Page Content (Milestone 1)
